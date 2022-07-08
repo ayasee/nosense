@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class NosenceApplication {
-
+    public void hh() {}
     public static void main(String[] args) {
         SpringApplication.run(NosenceApplication.class, args);
     }
